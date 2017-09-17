@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Hatstall_Example' do
+  pod 'Hatstall', :path => '../'
+
+  target 'Hatstall_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

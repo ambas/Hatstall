@@ -1,0 +1,6 @@
+framework module Hatstall {
+  umbrella header "Hatstall-umbrella.h"
+
+  export *
+  module * { export * }
+}

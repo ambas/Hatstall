@@ -1,0 +1,22 @@
+{
+  "name": "Hatstall",
+  "version": "0.1.0",
+  "summary": "A short description of Hatstall.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ambas/Hatstall",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ambas": "ambas.chobsanti@lazada.com"
+  },
+  "source": {
+    "git": "https://github.com/ambas/Hatstall.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Hatstall/Classes/**/*"
+}
