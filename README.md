@@ -17,7 +17,7 @@ Hatstall is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'Hatstall'
+pod 'Hatstall', :git => 'https://github.com/ambas/Hatstall.git'
 ```
 
 ## Author
