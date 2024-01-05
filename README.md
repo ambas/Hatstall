@@ -22,7 +22,7 @@ pod 'Hatstall', :git => 'https://github.com/ambas/Hatstall.git'
 
 ## Author
 
-ambas, ambas.chobsanti@lazada.com
+ambas, ambas.chobsanti@gmail.com
 
 ## License
 
